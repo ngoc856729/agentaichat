@@ -1,0 +1,2 @@
+step1: run setup.sh
+step2: run docker-compose
